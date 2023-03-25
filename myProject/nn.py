@@ -1,4 +1,5 @@
 import torch
+import numpy as np
 from torch.utils.data import TensorDataset, DataLoader
 
 # this file defined a neural network from scratch

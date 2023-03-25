@@ -1,4 +1,5 @@
-# PIC16B-23W-project-group6
+# Prediction of Movies' Performance based on IMDb data
+
 
 ### Contributors:
  - [Qiu, Joanne](https://github.com/joanneqiu07)
